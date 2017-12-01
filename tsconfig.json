@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "outDir": ".",
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    "module": "commonjs",
+    "target": "es5",
+    "declaration": true,
+    "lib": [
+      "dom",
+      "es5"
+    ]
+  },
+  "files": [
+    "index.ts"
+  ]
+}
