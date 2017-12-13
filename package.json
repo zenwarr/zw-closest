@@ -1,5 +1,5 @@
 {
-  "name": "zw-closest",
+  "name": "@zcomp/toggler",
   "version": "0.0.1",
   "description": "",
   "main": "dist/index.js",
