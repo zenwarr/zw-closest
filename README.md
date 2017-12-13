@@ -14,7 +14,7 @@ npm i --save @zcomp/closest
 # Usage
 
 ```javascript
-const closest = require('closest');
+const closest = require('@zcomp/closest');
 
 closest(document.body, 'html');
 ```
