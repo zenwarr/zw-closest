@@ -9,11 +9,8 @@ module.exports = [
     output: {
       filename: "index.js",
       path: path.join(__dirname, 'dist'),
-      library: 'zclosest',
-      libraryTarget: 'var'
+      libraryTarget: 'commonjs'
     },
-
-    devtool: "inline-source-map",
 
     target: 'web',
 
